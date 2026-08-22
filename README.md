@@ -8,7 +8,6 @@ Project information, roadmap and development updates for MedWorkbench
 MedWorkbench is An all-in-one desktop app for medical image annotation and dataset preparation in a flashcard-style interface for fast labeling designed to simplify repetitive tasks in medical imaging research and allow researchers to focus more on data collection and analysis
 
 ## Planned features
-- Flashcard-style image viewing and labeling
 -  Malignant / benign classification
 -  Automatic patient ID generation
 -  Automatic patient folder creation
@@ -20,6 +19,12 @@ MedWorkbench is An all-in-one desktop app for medical image annotation and datas
 -  Progress tracking
 -  Windows ".exe" release
 -  Linux application alternative
+
+## In progress
+
+-  Flashcard-style image viewing and labeling
+
+## Implemented features
 
 ## Technology
 - Python
